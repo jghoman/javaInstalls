@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+cat jdk8osx.dmg* > jdk-8-macosx-x64.dmg
