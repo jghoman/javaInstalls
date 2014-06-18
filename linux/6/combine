@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-cat jdk6u45linux64.bin* > jdk-6u45-linux-x64.bin
